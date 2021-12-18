@@ -1,6 +1,6 @@
-# SOLID
+# SOLID_PRINCIPLES
 
-IN THIS PROJECT WE WILL FOCUS ABOUT THE solid Principles and give examples of implmentaion
+In this project we will focus on the SOLID Principles and give examples of implmentaion.
 
 * _SRP_ Single Responsibility Principle : A class should have one reason to change
 * _OCP_ Open for extension, closed for modification 
